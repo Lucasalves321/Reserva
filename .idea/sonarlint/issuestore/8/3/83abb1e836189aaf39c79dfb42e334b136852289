@@ -1,20 +1,20 @@
 
-	java:S116"NRename this field "CPF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôßŠáûÿÿÿÿJ$4d32d03f-ae5a-4500-b877-45ffc2dd69d3
-“	java:S116"SRename this field "Telefone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(““şÿÿÿÿJ$eaefc479-796f-487f-b42e-5a1e9ee540ef
-‹	java:S116"PRename this field "Email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áï»‚J$32a7eaca-0862-4ce4-9e70-ebb8744c1d66
+	java:S116"NRename this field "CPF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôßŠáûÿÿÿÿJ$f9922525-cc0b-4d9b-bfd7-f55906a3bab9
+“	java:S116"SRename this field "Telefone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(““şÿÿÿÿJ$80e57f7f-de5e-4b94-bc12-db12e9d828e5
+‹	java:S116"PRename this field "Email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áï»‚J$a8c2aff3-73ba-49d7-93c8-3e4773be6272
 “
-java:S1450"RRemove the "CPF" field and declare it as a local variable in the relevant methods.(ôßŠáûÿÿÿÿJ$731435e8-e9bd-485f-aadd-9027a4c5fc61
+java:S1450"RRemove the "CPF" field and declare it as a local variable in the relevant methods.(ôßŠáûÿÿÿÿJ$a043bfda-1fcf-4241-9eae-88e260b60ad4
 
-java:S1450"TRemove the "Email" field and declare it as a local variable in the relevant methods.(áï»‚J$75373624-88bc-4f64-828f-353a94c1f908
+java:S1450"TRemove the "Email" field and declare it as a local variable in the relevant methods.(áï»‚J$960bbbcb-2c87-4dc6-822e-d8ccac04ece1
 ˜
-java:S1450"WRemove the "Telefone" field and declare it as a local variable in the relevant methods.(““şÿÿÿÿJ$b372899d-02ad-4afc-a5d1-e59117908d00
+java:S1450"WRemove the "Telefone" field and declare it as a local variable in the relevant methods.(““şÿÿÿÿJ$11049e6d-a95c-4f58-bce7-2936cde6f5c0
 
-java:S1450"SRemove the "nome" field and declare it as a local variable in the relevant methods.(«Ÿ¡ùJ$db47427e-9133-40c5-80a9-d618bf15c003
+java:S1450"SRemove the "nome" field and declare it as a local variable in the relevant methods.(«Ÿ¡ùJ$bb339057-0ab5-4357-ad1a-991e03275e01
 d
-java:S1068"(Remove this unused "nome" private field.(«Ÿ¡ùJ$523c861f-b735-4ed2-955f-1392ec657adc
+java:S1068"(Remove this unused "nome" private field.(«Ÿ¡ùJ$3cd48318-fd4a-4f39-a8ae-c821d169ec53
 h
-java:S1068"'Remove this unused "CPF" private field.(ôßŠáûÿÿÿÿJ$fccc4c8e-21ba-48c6-92e9-5dcf7cd4a290
+java:S1068"'Remove this unused "CPF" private field.(ôßŠáûÿÿÿÿJ$600e7320-df27-457d-98f7-089fe150f2a8
 m
-java:S1068",Remove this unused "Telefone" private field.(““şÿÿÿÿJ$c3ddfa52-c3a2-4638-a1d7-e60ce42f5d89
+java:S1068",Remove this unused "Telefone" private field.(““şÿÿÿÿJ$267469b6-f710-4436-ba24-77b8473aa8e1
 e
-java:S1068")Remove this unused "Email" private field.(áï»‚J$d7d572b5-54cb-4bda-9aaf-134f9c51314c
+java:S1068")Remove this unused "Email" private field.(áï»‚J$6a701cda-b54c-4f12-88ae-880a50e4f5f7
