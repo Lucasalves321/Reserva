@@ -1,0 +1,17 @@
+
+Â
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ý¯ÔàøÿÿÿÿJ$7e709074-c265-4baa-84a7-b47b043f9ee4
+Â
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(É˜Š…üÿÿÿÿJ$375d17c1-87fa-44bc-87a6-e8b94d64a48f
+o
+java:S1172	".Remove this unused method parameter "produto".(ý¯ÔàøÿÿÿÿJ$574e635e-45ad-4035-bb11-9a5291a382e1
+l
+java:S1068"0Remove this unused "numeroPedido" private field.(œ‡ÓÁJ$47e74b38-1124-44f9-923f-2150395b016e
+j
+java:S1068".Remove this unused "itemPedido" private field.(áÙÍÙJ$14712dac-28f3-4480-b208-f92cc272a54d
+o
+java:S1068".Remove this unused "valorTotal" private field.(ñ«ú˜þÿÿÿÿJ$6be563b1-3606-4364-9a35-ed9e30305159
+s
+java:S1144	"2Remove this unused private "adicionarItem" method.(ý¯ÔàøÿÿÿÿJ$3bb1213f-f04b-4e52-ab77-058fe81389aa
+s
+java:S1144"2Remove this unused private "calcularTotal" method.(É˜Š…üÿÿÿÿJ$8c0dea4c-07ad-4e01-9f7e-abb91d043e24

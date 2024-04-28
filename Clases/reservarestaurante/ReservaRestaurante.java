@@ -1,24 +1,11 @@
-//este programa é sobre um controle de Reserva de um Restaurante.
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package reservarestaurante;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Luanderson Amparo
- * @author Lucas Alves
- */
 public class ReservaRestaurante {
 
-    /**
-     * @param args the command line arguments
-     */
+
     public static void main(String[] args) {
-        // TODO code application logic here
         Scanner read = new Scanner(System.in);//declarando um Scanner
         Cliente cli = new Cliente();//Instanciando a classe cliente.
         Mesa ms = new Mesa();//Instanciando a classe mesa.
@@ -28,13 +15,14 @@ public class ReservaRestaurante {
         do {
             System.out.println("1. Fazer Uma Reserva");
             System.out.println("2. Consultar Reserva");
-            System.out.println(". Fazer pedido");
-            System.out.println(". cadastrar Produtos ");
-            System.out.println(". cadastrar Funcionarios");
-            System.out.println(". cadastrar mesa");
-            System.out.println(". cadastar cardapio");
-            System.out.println(". fechar conta/comanda");
-            System.out.println(". gerar relatorio");
+            System.out.println("3. Fazer pedido");
+            System.out.println("4. cadastrar Produtos ");
+            System.out.println("5. cadastrar Funcionarios");
+            System.out.println("6. cadastrar mesa");
+            System.out.println("7. cadastar cardapio");
+            System.out.println("8. fechar conta/comanda");
+            System.out.println("9. gerar relatorio");
+            System.out.println("0. Para sair");
             opcao = read.nextInt();
 
             switch (opcao) {
@@ -63,6 +51,7 @@ public class ReservaRestaurante {
                     ms.setmesa(numeroMesa);
                     break;
                 case 2:
+
                     break;
                 case 3:
                     break;
@@ -77,7 +66,7 @@ public class ReservaRestaurante {
                 case 8:
                     break;
                 default:
-                    System.out.println("The end");
+                    System.out.println("Volte sempre!!!!!!");
             }
         } while (opcao != 0);
     }

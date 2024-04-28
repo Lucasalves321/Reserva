@@ -1,0 +1,28 @@
+
+½
+java:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÔËÙ«J$33cbb2ea-b78a-464d-8c2d-67c2f1a9363f
+Â
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”ÀË·ÿÿÿÿÿJ$5c642750-4dd0-4c43-b507-bab03342fe01
+½
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«²¦J$11daf8f2-69e6-4366-a137-2d3c17fb2171
+g
+java:S1172
+"+Remove this unused method parameter "mesa".(ÔËÙ«J$5659279c-1183-4c24-9be8-e9f517006814
+o
+java:S1172".Remove this unused method parameter "produto".(”ÀË·ÿÿÿÿÿJ$c6365fab-43d5-4d8a-a615-ff929894eaf2
+d
+java:S1068"(Remove this unused "nome" private field.(«Ÿ¡ùJ$5f74f915-4618-4e80-95e4-c75ebfc096a0
+g
+java:S1068"&Remove this unused "id" private field.(ôç¼ÓşÿÿÿÿJ$2bd9e656-0b0a-4793-a380-d2d46ac51595
+j
+java:S1068")Remove this unused "senha" private field.(¼›—İşÿÿÿÿJ$5daa9c6a-2753-45e8-bafd-c7ee061514f2
+f
+java:S1068"*Remove this unused "funcao" private field.(ûÛóÁJ$8a1b9534-9c9c-4a1b-baa0-33f026b42ad3
+n
+java:S1144
+"2Remove this unused private "cadastrarMesa" method.(ÔËÙ«J$7ce01e21-1c2e-4502-b5ad-cb561cb8cf10
+v
+java:S1144"5Remove this unused private "cadastrarProduto" method.(”ÀË·ÿÿÿÿÿJ$1757efcc-1668-4198-85b1-64f176377ea8
+o
+java:S1144"3Remove this unused private "gerarRelatorio" method.(«²¦J$bf59155c-cf7b-4c64-9f26-a77428179edc

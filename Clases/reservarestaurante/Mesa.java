@@ -1,15 +1,6 @@
-/*Descrição: Funcionalidade que permite o cadastro das mesas do restaurante.*/
- /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package reservarestaurante;
 
-/**
- *
- * @author Luanderson Amparo
- * @author Lucas Alves
- */
+
 public class Mesa {
 
     private int Numero;

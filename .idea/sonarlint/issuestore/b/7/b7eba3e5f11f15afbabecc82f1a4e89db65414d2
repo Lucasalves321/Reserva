@@ -1,0 +1,21 @@
+
+”	java:S116"TRename this field "Descricao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΖΩ¶ύÿÿÿÿJ$47dca4bf-6eab-4de6-86b4-99df1baeef76
+	java:S116"PRename this field "Preco" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ƒέψÿÿÿÿJ$3cfada77-1a2f-43b3-a5aa-6c16bd0ced46
+½
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ªκJ$b1e0ca31-9aaa-4c8a-9bec-0e9529007c97
+Ό
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(πε6J$c9fdde86-5425-43ec-ba8d-d3e0fb3fb2de
+m
+java:S1172"1Remove this unused method parameter "quantidade".(ªκJ$68a4df93-7b5a-46be-967f-1bd5c80982b8
+d
+java:S1068"(Remove this unused "nome" private field.(«΅ωJ$46855df5-52ea-4f52-8067-23f413e2b6df
+n
+java:S1068"-Remove this unused "Descricao" private field.(ΖΩ¶ύÿÿÿÿJ$3efa5968-85ed-4815-8792-bc0d5f746a74
+j
+java:S1068")Remove this unused "Preco" private field.( ƒέψÿÿÿÿJ$fd5cbc24-86ce-43a5-87dd-9f03096e7580
+q
+java:S1068	"5Remove this unused "quantidadeEstoque" private field.(εΔϋϋJ$05446cb7-6135-4536-9562-3847bb88994e
+q
+java:S1144"5Remove this unused private "atualizarEstoque" method.(ªκJ$20a03aa7-7d7e-4463-9433-ed00656887d7
+p
+java:S1144"5Remove this unused private "verificarEstoque" method.(πε6J$a8661415-73a5-42da-b3c0-387829e6fb95
